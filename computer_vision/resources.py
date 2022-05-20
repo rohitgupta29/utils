@@ -27,3 +27,10 @@ Javascript
 1. https://github.com/kdzwinel/JS-OCR-demo 
   
 2. https://towardsdatascience.com/in-browser-object-detection-using-yolo-and-tensorflow-js-d2a2b7429f7c
+
+  
+  Videos 
+  
+ 1. https://www.youtube.com/watch?v=fqjijsWjpPo 
+  
+ 2. https://blog.francium.tech/information-extraction-from-id-cards-using-yolov2-e3c846cb3796
