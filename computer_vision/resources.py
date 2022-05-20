@@ -20,6 +20,8 @@
 
 11. https://github.com/Lal4Tech/OCR-Identity-Cards
   
+12. https://jonathan-hui.medium.com/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359
+  
 Javascript 
 
 1. https://github.com/kdzwinel/JS-OCR-demo 
