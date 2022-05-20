@@ -7,3 +7,21 @@
 4. https://jonathan-hui.medium.com/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359 
   
 5. https://medium.com/nerd-for-tech/aadhaar-pan-info-extraction-using-python-ocr-5df81b6c66e3
+  
+6. https://github.com/suresach/ocr
+  
+7. https://github.com/Praneet9/Docify 
+  
+8. https://github.com/mesutpiskin/id-card-detector
+  
+9. https://github.com/dilippuri/PAN-Card-OCR 
+  
+10. https://github.com/buiquangmanhhp1999/extract-information-from-identity-card
+
+11. https://github.com/Lal4Tech/OCR-Identity-Cards
+  
+Javascript 
+
+1. https://github.com/kdzwinel/JS-OCR-demo 
+  
+2. https://towardsdatascience.com/in-browser-object-detection-using-yolo-and-tensorflow-js-d2a2b7429f7c
