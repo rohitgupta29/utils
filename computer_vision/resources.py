@@ -22,6 +22,8 @@
   
 12. https://jonathan-hui.medium.com/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359
   
+14. https://towardsdatascience.com/custom-object-detection-using-darknet-9779170faca2
+  
 Javascript 
 
 1. https://github.com/kdzwinel/JS-OCR-demo 
