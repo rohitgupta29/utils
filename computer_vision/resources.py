@@ -24,6 +24,10 @@
   
 14. https://towardsdatascience.com/custom-object-detection-using-darknet-9779170faca2
   
+YOLO 
+
+1. https://roboticsknowledgebase.com/wiki/machine-learning/train-darknet-on-custom-dataset/#train-with-map-graph 
+  
 Javascript 
 
 1. https://github.com/kdzwinel/JS-OCR-demo 
